@@ -1,6 +1,6 @@
 # Q-DDCA: Decentralized Dynamic Congestion  Avoid Routing in Large-Scale Quantum Networks
 
-This is the minized prototype codes for implementing the Q-DDCA protocol. This code requires the [SimQN]([https://github.com/ertuil/simqn](https://github.com/QNLab-USTC/SimQN)) Platform.
+This is the minized prototype codes for implementing the Q-DDCA protocol. This code requires the [SimQN](https://github.com/QNLab-USTC/SimQN) Platform.
 
 ## How to Run
 
@@ -28,7 +28,7 @@ run *exp1.py*, *exp2.py* or *exp3.py* for simulation, and modify the parameters 
 
 ## Note and Citation
 
-- Please cite:"Chen L, Xue K, Li J, et al. Q-DDCA: Decentralized dynamic congestion avoid routing in large-scale quantum networks[J]. IEEE/ACM Transactions on Networking, 2023, 32(1): 368-381."[link](Chen L, Xue K, Li J, et al. Q-DDCA: Decentralized dynamic congestion avoid routing in large-scale quantum networks[J]. IEEE/ACM Transactions on Networking, 2023, 32(1): 368-381.)
+- Please cite:"Chen L, Xue K, Li J, et al. Q-DDCA: Decentralized dynamic congestion avoid routing in large-scale quantum networks[J]. IEEE/ACM Transactions on Networking, 2023, 32(1): 368-381."[link](https://ieeexplore.ieee.org/abstract/document/10158747)
   
 - Please add the following citation in your work if you use our open-source code.
 ```
